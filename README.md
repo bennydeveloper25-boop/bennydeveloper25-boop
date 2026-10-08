@@ -1,5 +1,25 @@
 # Miguel Benhair Velásquez Villareal
-
+!https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+!https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white
+!https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+!https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+!https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+!https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+!https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+!https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white
+!https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
+!https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+!https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
+!https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
+!https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+!https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
+!https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+!https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+!https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
+!https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+!https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+!https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+!https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 **Estudiante de Ingeniería en Sistemas | Desarrollo de software | Aplicaciones web y móviles**
 
 Desarrollo proyectos académicos y personales de extremo a extremo: análisis de necesidades, diseño de interfaces, programación, integración de datos y documentación. Me interesa crear soluciones útiles, accesibles y mantenibles, y seguir fortaleciendo mis prácticas de desarrollo seguro.
